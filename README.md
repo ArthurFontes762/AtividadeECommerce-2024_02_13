@@ -1,2 +1,2 @@
 # e_commerce
-Clonagem OnePage de um ecommerce
+Brincando de clonagem OnePage de um ecommerce
